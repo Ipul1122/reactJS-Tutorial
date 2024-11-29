@@ -1,0 +1,10 @@
+Apa itu reactJs?
+
+ReactJs adalah library yang digunakan untuk javascript maupun typescript
+
+Memungkinkan kita dengan mudahnya membuat single page Apps - SPA's for short
+
+contoh
+request ke/contact, server akan menerima respon dari user dan server mengembalikan perintah contact ke user. Disebut dengan response dan request
+
+ReactJS sangat berguna untuk Frontend Developer dan lebih mudah 
