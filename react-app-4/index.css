@@ -1,0 +1,10 @@
+.mahasiswa {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2rem;
+  padding: 1rem;
+  border: 1px solid #000;
+}
+
+.mahasiswa p{
+  margin: 0 ;
+}
